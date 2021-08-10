@@ -1,0 +1,46 @@
+.logoutform  {
+    margin-left: 30% ;
+    margin-top: 10%;
+    background-color: rgb(201, 29, 29);
+    width: 30%;
+    border-radius: 5px;
+    
+
+    
+}
+.logoutform h1 {
+    margin: 20px;
+    margin-left: 60px;
+    padding: 20px;
+    width: 75%;
+
+    
+}
+.logoutform h3 {
+    margin: 20px;
+    margin-left: 60px;
+    padding: 20px;
+    width: 75%;
+
+    
+}
+
+.logoutform button {
+    margin: 20px;
+    margin-left: 60px;
+    padding: 20px;
+    width: 25%;
+    background-color: rgb(85, 113, 236)
+
+    
+}
+.logoutform user.name {
+    margin-left: 30% ;
+    margin-top: 10%;
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    border-radius: 5px;
+    
+
+    
+}
